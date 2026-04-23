@@ -781,10 +781,10 @@ Miscellaneous:
 Exit status:
 Returns 0 if successful; non-zero otherwise.
 
+Sidra - Fork
+
 Report bugs at https://github.com/chatwoot/chatwoot/issues
 Get help, https://chatwoot.com/community?utm_source=cwctl
-
-Sidra - Fork
 
 EOF
 }
