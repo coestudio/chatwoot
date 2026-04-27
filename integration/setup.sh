@@ -22,8 +22,8 @@ OPTIONS=cdhiI:l:rsuU:wvWK
 CWCTL_VERSION="3.5.0"
 pg_pass=$(head /dev/urandom | tr -dc A-Za-z0-9 | head -c 15 ; echo '')
 CHATWOOT_HUB_URL="https://hub.2.chatwoot.com/events"
-CHATWOOT_REPO="https://github.com/coestudio/chatwoot.git"
-CHATWOOT_RAW_BASE="https://raw.githubusercontent.com/coestudio/chatwoot"
+CHATWOOT_REPO="https://github.com/coestudio/SidraCoest.git"
+CHATWOOT_RAW_BASE="https://raw.githubusercontent.com/coestudio/SidraCoest"
 CHATWOOT_BRANCH="main"
 
 # if user does not specify an option
